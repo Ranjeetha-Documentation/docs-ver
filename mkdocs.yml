@@ -7,3 +7,4 @@ plugins:
 nav:
   - Home: "index.md"
   - Version Selector: "../"
+  # - awesome-pages
