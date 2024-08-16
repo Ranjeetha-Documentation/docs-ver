@@ -1,9 +1,9 @@
-site_name: My Docs
-edit_uri: ""
+site_name: RDK Architecture
+edit_uri: "https://ranjeetha-documentation.github.io/docs-ver/"
 
 plugins:
 - mkdocs-versioning:
-    version: 0.1.0
+    version: 0.2.0
 nav:
   - Home: "index.md"
   - Version Selector: "../"
